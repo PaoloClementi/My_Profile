@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Cyran31
-- 👀 I’m interested in Coding, Biomedical Engineer, Videogames, Movies and Martial Arts
-- 🌱 I’m currently learning Phyton, Machine Learning, Arduino
-- 💞️ I’m looking to collaborate on prostetic in medical field. 
+Freelance software developer based in the northern part of Italy, my knowledge varies from Web application, microservices, RESTful API, Database administration, Scripting from low-level cybersecurity application. 
 
+I'm mainly a Java developer with a keen interest in Python, C++ and C#. 
 
-<!---
-Cyran31/Cyran31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I worked most of my life in the engineering and fintech field. 
+
+Besides programming I'm a nature lover and proud biker. 
